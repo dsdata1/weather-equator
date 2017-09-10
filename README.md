@@ -51,7 +51,7 @@ In general, we see that as we get closer to the equator temperature get increase
 
 <div>
 
-[simple Python library](https://pypi.python.org/pypi/citipy)
+[Citipy python library](https://pypi.python.org/pypi/citipy)
 
 <div>
 
